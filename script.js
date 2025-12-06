@@ -1,2 +1,6 @@
-console.log("===HERE IS YOUR 2ND FLAG CONGRATULATIONS===");
-console.log("MCG{J4V45R1PT_C0NS0L3}");
+
+
+document.getElementById("reveal").addEventListener("click", function() {
+    console.log("GOOD JOB!!!");
+    console.log("MCG{CL1CK_TR1GG3R_FL4G}");
+});
