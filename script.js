@@ -1,0 +1,2 @@
+console.log("===HERE IS YOUR 2ND FLAG CONGRATULATIONS===");
+console.log("MCG{J4V45R1PT_C0NS0L3");
